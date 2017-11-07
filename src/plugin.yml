@@ -1,0 +1,3 @@
+name: examplelistenerplugin
+main: nl.jessegeerts.publicplugins.examplelistenerplugin.Main
+version: 1.0
